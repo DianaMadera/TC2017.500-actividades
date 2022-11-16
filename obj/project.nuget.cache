@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "EcllMQ1Sv3Cx5wPgc4aWaaVhAAlUxsoy6oRsVlR/Jal/2cR3ZrVvh4O9zAAyclqIY/5imTIJzIoCAdFZrW3hzw==",
+  "dgSpecHash": "kQaVCdLnaH1XiGTHORi7/lAPqJs70/qIMdlvH5aFoAYgdqinWF/YHZZOPoXSlr/CLMV3eVI4063PYHBrL1jSMw==",
   "success": true,
   "projectFilePath": "C:\\Users\\DIANA\\Documents\\Tec\\11vo Semestre\\diseño_arq_sof\\diseñoArq\\APIadapter\\APIadapter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DIANA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\DIANA\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\DIANA\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\DIANA\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
     "C:\\Users\\DIANA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
     "C:\\Users\\DIANA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
